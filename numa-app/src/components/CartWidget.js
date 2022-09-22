@@ -1,4 +1,4 @@
-
+export { font}
 
 const CartWidget = () => {
     return(
